@@ -1,9 +1,0 @@
-Cargo.lock
-
-/target/*
-!/target/release
-/target/release/*
-!/target/release/*.deb
-!/target/release/*.exe
-!/target/release/Inn
-!/target/release/Innkeeper
